@@ -4,3 +4,5 @@ straight
 wrong
 
 ignore
+
+deleted
