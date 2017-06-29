@@ -1,6 +1,4 @@
 left
 straight
 
-wrong
-
 ignore
