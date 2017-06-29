@@ -2,3 +2,5 @@ left
 straight
 
 ignore
+
+deleted
